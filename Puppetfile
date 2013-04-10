@@ -33,3 +33,16 @@ github "sudo",     "1.0.0"
 
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
+
+github "tmux"
+github "alfred"
+github "virtualbox"
+github "vagrant"
+github "caffeine"
+github "propane"
+github "bash"
+github "wget"
+github "csshx"
+github "sublime_text_2"
+github "bash"
+

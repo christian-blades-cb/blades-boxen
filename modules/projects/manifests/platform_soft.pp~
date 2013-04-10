@@ -1,0 +1,7 @@
+class projects::platform_soft {
+    include caffeine
+    include propane
+    include wget
+    include csshx
+    include sublime_text_2
+    
