@@ -1,8 +1,8 @@
-class people::christian-blades-cb {
+class people::christian_blades_cb {
     include projects::all
 
     $username = "cblades"
-    $home = "/Users/${username}"
+    $home = "/Users/${::luser}"
  
     if !defined(File["${home}/Workspace/Projects"]) {
         file { "${home}/Workspace/Projects":
