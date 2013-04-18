@@ -1,7 +1,7 @@
 class people::tkling {
     include projects::all
 
-    $home = "/Users/tkling"
+    $home = "/Users/${::luser}"
 
     if !defined(File["/${home}/dev/projects"]) {
         file {"${home}/dev/projects":
