@@ -104,6 +104,21 @@ GITHUBTARBALL
     wget (1.0.0)
 
 GITHUBTARBALL
+  remote: christian-blades-cb/puppet-emacs_mac
+  specs:
+    emacs_mac (1.0.0)
+
+GITHUBTARBALL
+  remote: christian-blades-cb/puppet-freetds
+  specs:
+    freetds (1.0.0)
+
+GITHUBTARBALL
+  remote: christian-blades-cb/puppet-networkconnect
+  specs:
+    networkconnect (1.0.0)
+
+GITHUBTARBALL
   remote: cprice-puppet/puppetlabs-inifile
   specs:
     inifile (0.9.0)
@@ -120,11 +135,14 @@ DEPENDENCIES
   caffeine (= 1.0.0)
   csshx (= 1.0.0)
   dnsmasq (= 1.0.0)
+  emacs_mac (= 1.0.0)
+  freetds (= 1.0.0)
   gcc (= 1.0.0)
   git (= 1.0.0)
   homebrew (= 1.1.2)
   hub (= 1.0.0)
   inifile (= 0.9.0)
+  networkconnect (= 1.0.0)
   nginx (= 1.1.0)
   nodejs (= 1.0.0)
   nvm (= 1.0.0)
