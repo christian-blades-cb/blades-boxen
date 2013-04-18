@@ -11,5 +11,4 @@ class projects::platform_soft {
   include tmux
   include freetds
   include emacs_mac
-  include networkconnect
 }
