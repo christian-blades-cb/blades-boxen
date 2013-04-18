@@ -46,4 +46,4 @@ github "csshx", "1.0.0"
 github "sublime_text_2", "1.1.0"
 github "emacs_mac", "1.0.0", :repo => "christian-blades-cb/puppet-emacs_mac"
 github "freetds", "1.0.0", :repo => "christian-blades-cb/puppet-freetds"
-
+github "networkconnect", "1.0.0", :repo => "christian-blades-cb/puppet-networkconnect"
