@@ -114,6 +114,11 @@ GITHUBTARBALL
     freetds (1.0.0)
 
 GITHUBTARBALL
+  remote: christian-blades-cb/puppet-gibo
+  specs:
+    gibo (1.0.0)
+
+GITHUBTARBALL
   remote: christian-blades-cb/puppet-networkconnect
   specs:
     networkconnect (1.0.0)
@@ -138,6 +143,7 @@ DEPENDENCIES
   emacs_mac (= 1.0.0)
   freetds (= 1.0.0)
   gcc (= 1.0.0)
+  gibo (= 1.0.0)
   git (= 1.0.0)
   homebrew (= 1.1.2)
   hub (= 1.0.0)
